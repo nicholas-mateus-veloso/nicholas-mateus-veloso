@@ -45,6 +45,7 @@
   
   <img align="center" alt="Nicholas-AmazonWebServices" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Nicholas-Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
+ <img align="center" alt="Nicholas-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
     
 </div>
   
