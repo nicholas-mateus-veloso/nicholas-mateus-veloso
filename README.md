@@ -6,9 +6,9 @@
 <br />
 
 <div style="display: inline_block">
-	<a href="https://github.com/karasurage">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karasurage&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karasurage&layout=compact&langs_count=7&theme=onedark"/>
+	<a href="https://github.com/nicholas-mateus-veloso">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicholas-mateus-veloso&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-mateus-veloso&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 ## Tecnologias
@@ -49,8 +49,9 @@
 		<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 	</a>
 	<a href="https://www.linkedin.com/in/nicholas-mateus-veloso" target="_blank">
+	
 		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 	</a> 
 </div>
 	
-![Snake animation](https://github.com/karasurage/karasurage/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nicholas-mateus-veloso/nicholas-mateus-veloso/blob/output/github-contribution-grid-snake.svg)
