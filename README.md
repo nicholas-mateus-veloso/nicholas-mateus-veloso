@@ -6,9 +6,11 @@
 <br />
 
 <div style="display: inline_block">
-	<a href="https://github.com/nicholas-mateus-veloso">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicholas-mateus-veloso&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-mateus-veloso&layout=compact&langs_count=7&theme=onedark"/>
+
+[![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholas-mateus-veloso&show_icons=true&theme=onedark&include_all_commits=true&count_private=true")](https://github.com/nicholas-mateus-veloso/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-mateus-veloso&layout=compact&theme=onedark&langs_count=7)](https://github.com/nicholas-mateus-veloso/github-readme-stats)
+
 </div>
 
 ## Tecnologias
