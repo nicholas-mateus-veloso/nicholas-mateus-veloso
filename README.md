@@ -1,6 +1,6 @@
 ###  👋 Olá!
 <div style="display: inline_block" align="justify">
-Olá, eu sou Nicholas Mateus, um entusiasta da informática e um dedicado Engenheiro de Software. 
+Olá, eu sou Nicholas Mateus, um entusiasta da informática e um dedicado Engenheiro de Software focado na área de Back-End.
 
 Minha paixão pela programação é o que impulsiona minha carreira. Sempre estou buscando aprimorar minhas habilidades em diversas linguagens e tecnologias, como Python, Java e JavaScript. Acredito que a aprendizagem contínua é a chave para se manter relevante em um cenário tecnológico em constante evolução. 
 
