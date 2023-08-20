@@ -1,15 +1,23 @@
 ###  👋 Olá!
-<div style="display: inline_block">
-	Meu nome é Nicholas Mateus. Sou Engenheiro de Software com graduação em Sistemas para Internet pela UNISÃOMIGUEL, técnico em Informática pelo ETEPAM, técnico em Manutenção e Suporte em Informática pela UNINASSAU.
+<div style="display: inline_block" align="justify">
+Olá, eu sou Nicholas Mateus, um entusiasta da informática e um dedicado Engenheiro de Software. 
+
+Minha paixão pela programação é o que impulsiona minha carreira. Sempre estou buscando aprimorar minhas habilidades em diversas linguagens e tecnologias, como Python, Java e JavaScript. Acredito que a aprendizagem contínua é a chave para se manter relevante em um cenário tecnológico em constante evolução. 
+
+Estou constantemente envolvido em projetos desafiadores, nos quais posso aplicar meu conhecimento e criatividade para desenvolver soluções inovadoras. Meu foco não se limita apenas à escrita de código, mas também à compreensão das necessidades dos usuários e à criação de experiências digitais eficazes e atraentes.
+
+A natureza em constante mudança do campo da informática me motiva a permanecer atualizado com as tendências mais recentes e as melhores práticas da indústria. Tenho um profundo interesse no aprendizado de máquina e inteligência artificial, áreas que considero fundamentais para moldar o futuro da tecnologia. 
+
+Estou animado com as possibilidades que a programação e a informática oferecem e estou sempre ansioso para enfrentar novos desafios e expandir meus horizontes no mundo da tecnologia.
 </div>
 
 <br />
 
-<div style="display: inline_block">
-
-[![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholas-mateus-veloso&show_icons=true&theme=onedark&include_all_commits=true&count_private=true")](https://github.com/nicholas-mateus-veloso/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-mateus-veloso&layout=compact&theme=onedark&langs_count=7)](https://github.com/nicholas-mateus-veloso/github-readme-stats)
+<div style="display: inline_block" align="center">
+	
+  <a href="https://github.com/nicholas-mateus-veloso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicholas-mateus-veloso&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-mateus-veloso&layout=compact&theme=onedark&langs_count=7"/>
 
 </div>
 
@@ -39,9 +47,13 @@
 		<img align="center" alt="Intellij" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 		<img align="center" alt="Vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 		<img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  		<img align="center" alt="Kubernetes" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+      		<img align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+      		<img align="center" alt="GraphQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+      		<img align="center" alt="Jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg">	
 </div>
   
-## 📨 Contact
+## 📨 Contato
  
 <div style="display: inline_block">
 	<a href="mailto:nicholas.mateus@gmail.com">
