@@ -11,6 +11,8 @@ A natureza em constante mudança do campo da informática me motiva a permanecer
 Estou animado com as possibilidades que a programação e a informática oferecem e estou sempre ansioso para enfrentar novos desafios e expandir meus horizontes no mundo da tecnologia.
 </div>
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=nicholas-mateus-veloso)
+
 <br />
 
 <div style="display: inline_block" align="center">
